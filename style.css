@@ -1,0 +1,91 @@
+body{
+//background-color:#CC00BB;
+
+font-family:Courier new,monospace;
+
+}
+
+
+div{
+color:orange;
+font-size:10px;
+background-color:#C05780;
+width:100%;
+top:0;
+text-align:left;
+height:auto;
+border-style:none;
+opacity:0.8;
+margin:0;
+padding-left:10px;
+padding-right:130px;
+padding-bottom:130px;
+padding-top:30px;
+background-image:url("img_flower_transcpr.jpg");
+z-index:-1;
+position:relative;
+}
+div ul{
+list-style:none;
+
+
+}
+div li{
+text-align:center;
+font-size:18px;
+font-weight:bold;
+color:white;
+
+
+}
+
+
+section h2,p,ol{
+
+text-align:center;
+background-color:#FF828B;
+height:auto;
+border-style:none;
+opacity:1;
+margin:0;
+padding-left:10px;
+padding-right:130px;
+
+padding-top:20px;
+width:100%;
+color:blue;
+list-style-type:none;
+}
+article p,img{
+background-color:#ffccbb;
+z-index:-1;
+position:relative;
+margin:0;
+color:maroon;
+}
+main h3,p{
+
+
+text-align:center;
+background-color:#00ca8b;
+height:auto;
+border-style:none;
+opacity:1;
+margin:0;
+padding-left:10px;
+padding-right:130px;
+color:magenta;
+padding-top:20px;
+width:100%;
+
+}
+
+footer p,a{
+//column-count:3;
+background-image:linear-gradient(to left,blue,green);
+margin:0;
+color:orange;
+text-align:center;
+width:100%;
+
+}
